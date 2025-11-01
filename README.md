@@ -5,6 +5,12 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=acodedataz&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/acodedataz?label=Followers)
+![Stars](https://img.shields.io/github/stars/acodedataz?label=Stars)
+
+---
+
 ### 👨‍💻 About Me  
 Hi there! I’m **Rahatul Hossen Shanto**, a passionate **Android App Developer (Java)** who loves building smooth, modern, and functional mobile applications.  
 
